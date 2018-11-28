@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# IManage
+
+# IManage- Mange yor daily activities 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # iManage
 Manage your day
->>>>>>> b4dfd0041a474272a63c3ea6af76b203683b366f
+
